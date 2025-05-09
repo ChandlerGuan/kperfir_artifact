@@ -3,6 +3,8 @@ KPerfIR Artifact for OSDI'25
 
 # 1. Overview
 
+This artifact is open sourced at `https://github.com/ChandlerGuan/kperfir_artifact`.
+
 The KPerfIR project is a performance tool infrastructure for the [Triton](https://github.com/triton-lang/triton) compiler.
 Its integration into the main branch is ongoing on this [development branch](https://github.com/triton-lang/triton/tree/proton-dev).
 
